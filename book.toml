@@ -1,0 +1,6 @@
+[book]
+authors = ["Yao Yue"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Infrastructure Vitals"
